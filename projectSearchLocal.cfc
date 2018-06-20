@@ -1,16 +1,3 @@
-<!--- @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-
-		Project Searches related functions in Mobius.
-
-		Page Name:    projectSearch.cfc
-		Created By:   Kartikeya Madeshia (km906v)
-		Created On:   15th May, 2017
-
-		Called from:
-
-	@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@ --->
-
-
 <cfcomponent displayname="projectSearch" hint="Have different Search functions" output="false" extends="Search">
 
 	<!--- Function used to search mobius proj --->
